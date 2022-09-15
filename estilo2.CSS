@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 24px;
+    width: 1140px;
+}
+img{
+    margin: 24px;
+}
+
+h1{
+    font-size: 48px;
+}
+h2{
+    color: #2D8067;
+    font-size: 30px;
+    text-align: center;
+}
+.txt1{
+    text-align: center;;
+}
+
+.txt2{
+    text-align: end;
+}
