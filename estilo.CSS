@@ -1,16 +1,15 @@
-span{
-    color: #FC3003;
-}
-
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.mm;
     width: 1140px
 }
+
 h1{
     font-size: 48px;
     text-align: center;
 }
+
 h2{
+    color: #FC3003;
     font-size: 30px;
 }
